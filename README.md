@@ -28,5 +28,4 @@ My name is **Mabel Cisneros**, a systems engineering student with the experience
 <br /><br /><br />
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mabeley&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mabeley&theme=radical&show_icons=false)
